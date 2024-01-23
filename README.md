@@ -3,11 +3,15 @@
 # Design Methods of Alveolar Beams
 Computational implementation for design methods of cellular steel beams, aiming to identify failure modes and determine critical failure loads. The formulation is based on the works of Veríssimo et al. (2012), Fares et al. (2016), Ward (1990), Grilo et al. (2018), and Annex N (1998).
 
+![manufacturing](https://github.com/Lucassaaguiar/Design-Methods-of-Alveolar-Beams/blob/7e5f636c7eca84da2f91d4258615ac0fe21a4254/Figures/Figure%201.pdf)
+
 The codes were developed using Python version 3.8.8, and the program structure adheres to the principles of Object-Oriented Programming (OOP). These codes are organized into two distinct modules: Design Procedures of Alveolar Beams (DPAB) and Numerical Analysis of Alveolar Beams (NAAB). The DPAB is responsible for declaring the class, defining its attributes, and specifying its methods. Meanwhile, the NAAB is tasked with creating the object (alveolar beams) and conducting the numerical analysis. This involves incrementing loads and employing the relevant attributes and methods associated with that specific object.
 
 For more information, see [Aguiar (2023)](https://lume.ufrgs.br/handle/10183/259192#).
 
 # Examples
+
+![manufacturing](https://github.com/Lucassaaguiar/Design-Methods-of-Alveolar-Beams/blob/7e5f636c7eca84da2f91d4258615ac0fe21a4254/Figures/Figure%202.pdf)
 
 Examples | $d$ [mm] | $t_w$ [mm] | $t_f$ [mm] | $b_f$ [mm] | $b_w$ [mm] | $d_g$ [mm] | $L$ [m] | $D_0$ [mm] | $f_y$ [MPa] | $E$ [GPa] | $\nu$
 --- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |--- 
@@ -37,11 +41,15 @@ WARD, J. K. Design of Composite and Non-Composite Cellular Beams: Publication n�
 
 A implementação computacional foi realizada para dimensionar e verificar vigas alveolares de aço, com o objetivo de identificar modos e cargas críticas de falha. A formulação é baseada nos trabalhos de Veríssimo et al. (2012), Fares et al. (2016), Ward (1990), Grilo et al. (2018) e Anexo N (1998).
 
+![manufacturing](https://github.com/Lucassaaguiar/Design-Methods-of-Alveolar-Beams/blob/7e5f636c7eca84da2f91d4258615ac0fe21a4254/Figures/Figure%201.pdf)
+
 Os códigos foram desenvolvidos utilizando a versão 3.8.8 do Python, e a estrutura do programa adere aos princípios da Programação Orientada a Objetos (OOP). Esses códigos estão organizados em dois módulos distintos: Design Procedures of Alveolar Beams (DPAB) e Numerical Analysis of Alveolar Beams (NAAB). O DPAB é responsável por declarar a classe, definir seus atributos e especificar seus métodos. Enquanto isso, o NAAB é encarregado de criar o objeto (vigas alveolares) e realizar a análise numérica. Isso envolve o incremento de cargas e a utilização dos atributos e métodos relevantes associados a esse objeto específico.
 
 Para mais informações ver em [Aguiar (2023)](https://lume.ufrgs.br/handle/10183/259192#).
 
 # Exemplos
+
+![manufacturing](https://github.com/Lucassaaguiar/Design-Methods-of-Alveolar-Beams/blob/7e5f636c7eca84da2f91d4258615ac0fe21a4254/Figures/Figure%202.pdf)
 
 Exemplos | $d$ [mm] | $t_w$ [mm] | $t_f$ [mm] | $b_f$ [mm] | $b_w$ [mm] | $d_g$ [mm] | $L$ [m] | $D_0$ [mm] | $f_y$ [MPa] | $E$ [GPa] | $\nu$
 --- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |--- 
