@@ -1,3 +1,5 @@
+[EN](#Design-Methods-of-Alveolar-Beams)   |   [PT](#Dimensionamento-de-Vigas-Alveolares)
+
 # Design Methods of Alveolar Beams
 Computational implementation for design methods of cellular steel beams, aiming to identify failure modes and determine critical failure loads. The formulation is based on the works of Veríssimo et al. (2012), Fares et al. (2016), Ward (1990), Grilo et al. (2018), and Annex N (1998).
 
@@ -13,7 +15,7 @@ Examples | $d$ [mm] | $t_w$ [mm] | $t_f$ [mm] | $b_f$ [mm] | $b_w$ [mm] | $d_g$ 
 02 | 40.30 | 0.70 | 1.12 | 14.00 | 8.06 | 60.45 | 12.09 | 40.30 | 345 | 200 | 0.30 
 03 | 52.90 | 0.97 | 1.36 | 16.60 | 31.74 | 79.35 | 3.97 | 63.48 | 345 | 200 | 0.30 
 
-# References / Referencias
+# References 
 
 AGUIAR, L. A. Análise paramétrica sobre procedimentos para dimensionamento de vigas alveolares de aço. 180 p. Thesis (master) — Federal University of Rio Grande do Sul, 2023.
 
@@ -28,3 +30,7 @@ GRILO, L. F.; FAKURY, R. H.; VERÍSSIMO, G. S. Design procedure for the web-post
 VERÍSSIMO, G. S.; VIEIRA, W. B.; SILVEIRA, E. G.; RIBEIRO, J. C. L.; PAES, J. L. R.; BEZERRA, E. M.; Castro e Silva, A. L. R. Estados limites aplicáveis às vigas alveolares de aço. Revista de Estrutura de Aço, v. 2, n. 2, p. 126-144, 2013.
 
 WARD, J. K. Design of Composite and Non-Composite Cellular Beams: Publication nº100. Ascot, UK, 1990.
+
+# Dimensionamento de Vigas Alveolares
+
+
