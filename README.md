@@ -3,15 +3,17 @@
 # Design Methods of Alveolar Beams
 Computational implementation for design methods of cellular steel beams, aiming to identify failure modes and determine critical failure loads. The formulation is based on the works of Veríssimo et al. (2012), Fares et al. (2016), Ward (1990), Grilo et al. (2018), and Annex N (1998).
 
-![manufacturing](https://github.com/Lucassaaguiar/Design-Methods-of-Alveolar-Beams/blob/7e5f636c7eca84da2f91d4258615ac0fe21a4254/Figures/Figure%201.pdf)
+<p align="center">
+  <img src="Figures/Figure%201.svg" />[manufacturing process]
+</p> 
 
 The codes were developed using Python version 3.8.8, and the program structure adheres to the principles of Object-Oriented Programming (OOP). These codes are organized into two distinct modules: Design Procedures of Alveolar Beams (DPAB) and Numerical Analysis of Alveolar Beams (NAAB). The DPAB is responsible for declaring the class, defining its attributes, and specifying its methods. Meanwhile, the NAAB is tasked with creating the object (alveolar beams) and conducting the numerical analysis. This involves incrementing loads and employing the relevant attributes and methods associated with that specific object.
 
 For more information, see [Aguiar (2023)](https://lume.ufrgs.br/handle/10183/259192#).
 
 # Examples
+Figures/Figure 1.svg
 
-![manufacturing](https://github.com/Lucassaaguiar/Design-Methods-of-Alveolar-Beams/blob/7e5f636c7eca84da2f91d4258615ac0fe21a4254/Figures/Figure%202.pdf)
 
 Examples | $d$ [mm] | $t_w$ [mm] | $t_f$ [mm] | $b_f$ [mm] | $b_w$ [mm] | $d_g$ [mm] | $L$ [m] | $D_0$ [mm] | $f_y$ [MPa] | $E$ [GPa] | $\nu$
 --- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |--- 
