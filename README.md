@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/747347361.svg)](https://zenodo.org/doi/10.5281/zenodo.10558791)
+
 [EN](#Design-Methods-of-Alveolar-Beams)   |   [PT](#Dimensionamento-de-Vigas-Alveolares)
 
 # Design Methods of Alveolar Beams
