@@ -13,6 +13,8 @@ For more information, see [Aguiar (2023)](https://lume.ufrgs.br/handle/10183/259
 
 # Examples
 
+Three examples were made available for reproducing the codes. The nomenclatures used and values are defined in the figure and table below.
+
 <p align="center">
   <img src="Figures/Figure%202.svg" height="160" />[Nomenclatures]
 </p> 
@@ -51,9 +53,11 @@ A implementação computacional foi realizada para dimensionar e verificar vigas
 
 Os códigos foram desenvolvidos utilizando a versão 3.8.8 do Python, e a estrutura do programa adere aos princípios da Programação Orientada a Objetos (OOP). Esses códigos estão organizados em dois módulos distintos: Design Procedures of Alveolar Beams (DPAB) e Numerical Analysis of Alveolar Beams (NAAB). O DPAB é responsável por declarar a classe, definir seus atributos e especificar seus métodos. Enquanto isso, o NAAB é encarregado de criar o objeto (vigas alveolares) e realizar a análise numérica. Isso envolve o incremento de cargas e a utilização dos atributos e métodos relevantes associados a esse objeto específico.
 
-Para mais informações ver em [Aguiar (2023)](https://lume.ufrgs.br/handle/10183/259192#).
+Ver [Aguiar (2023)](https://lume.ufrgs.br/handle/10183/259192#) para maiores detalhes.
 
 # Exemplos
+
+Para reprodução dos códigos, três exemplos foram disponibilizados. As nomenclaturas utilizadas e os valores são definidos na figura e tabelha abaixo.
 
 <p align="center">
   <img src="Figures/Figure%202.svg" height="160" />[Nomenclaturas]
