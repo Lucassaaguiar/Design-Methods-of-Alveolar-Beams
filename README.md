@@ -14,7 +14,7 @@ For more information, see [Aguiar (2023)](https://lume.ufrgs.br/handle/10183/259
 # Examples
 
 <p align="center">
-  <img src="Figures/Figure%202.svg" height="160" />
+  <img src="Figures/Figure%202.svg" height="160" />[Nomenclatures]
 </p> 
 
 Examples | $d$ [mm] | $t_w$ [mm] | $t_f$ [mm] | $b_f$ [mm] | $b_w$ [mm] | $d_g$ [mm] | $L$ [m] | $D_0$ [mm] | $f_y$ [MPa] | $E$ [GPa] | $\nu$
@@ -56,7 +56,7 @@ Para mais informações ver em [Aguiar (2023)](https://lume.ufrgs.br/handle/1018
 # Exemplos
 
 <p align="center">
-  <img src="Figures/Figure%202.svg" height="160" />
+  <img src="Figures/Figure%202.svg" height="160" />[Nomenclaturas]
 </p> 
 
 Exemplos | $d$ [mm] | $t_w$ [mm] | $t_f$ [mm] | $b_f$ [mm] | $b_w$ [mm] | $d_g$ [mm] | $L$ [m] | $D_0$ [mm] | $f_y$ [MPa] | $E$ [GPa] | $\nu$
